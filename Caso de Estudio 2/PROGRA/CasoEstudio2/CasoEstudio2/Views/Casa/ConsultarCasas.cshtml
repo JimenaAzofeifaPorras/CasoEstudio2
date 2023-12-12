@@ -1,0 +1,65 @@
+﻿@model List<CasoEstudio2.Entities.CasaEnt>
+
+@{
+    ViewBag.Title = "ConsultarCasas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Consultar Casas</h4>
+            <br>
+
+            <table id="tableData" class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Codigo Casa</th>
+                        <th>Descripción de Casa</th>
+                        <th>Precio de Casa</th>
+                        <th>Usuario</th>
+                        <th>Estado</th>
+                        <th>Fecha de Alquiler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.IdCasa</td>
+                            <td>@item.DescripcionCasa</td>
+                            <td>@item.PrecioCasa</td>
+
+                            <td>@item.UsuarioAlquiler</td>
+                            @if (item.UsuarioAlquiler == null)
+                            {
+                                <td>Disponible</td>
+                            }
+                            else
+                            {
+                                <td>Reservada</td>
+                            }
+                            <td>@item.FechaAlquiler</td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+        <div style="text-align:left">
+            <a class="btn btn-primary" href="@Url.Action("ActaulizarCasas","Casa")">Agregar</a>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#tableData').DataTable({
+            "language": {
+                "url": "//cdn.datatables.net/plug-ins/1.10.15/i18n/Spanish.json"
+            }
+        });
+    });
+</script>

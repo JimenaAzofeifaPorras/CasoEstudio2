@@ -1,0 +1,42 @@
+﻿@model CasoEstudio2.Entities.CasaEnt
+@{
+    ViewBag.Title = "ActualizarCasas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Registro de Abonos</h4>
+
+            @if (ViewBag.MensajeUsuario != null)
+            {
+                <div class="alert alert-info" role="alert" style="text-align:center">
+                    @ViewBag.MensajeUsuario
+                </div>
+            }
+
+            @using (Html.BeginForm("ActualizarCasas", "Casa", FormMethod.Post, new { @class = "pt-3" }))
+            {
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Producto a Abonar</label>
+                    @Html.DropDownListFor(m => m.IdCasa, ViewBag.Productos as List<SelectListItem>, new { @class = "form-control form-control-lg", @placeholder = "Casas", @type = "email", @onchange = "ConsultaSaldo()", @id = "idCasa" })
+                </div>
+                <div class="form-group">
+                    <label>Precio</label>
+                    <input readonly="" type="text" id="Precio" name="Precio" class="form-control form-control-lg" />
+                </div>
+                <div class="form-group">
+                    <label>Abono</label>
+                    @Html.TextBoxFor(m => m.UsuarioAlquiler, new { @class = "form-control form-control-lg", @type = "UsuarioAlquiler", placeholder = "Usuario Alquiler" })
+                </div>
+
+
+                <button type="submit" class="btn btn-primary mr-2">Procesar</button>
+            }
+
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,267 @@
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\CasoEstudio2API.dll.config
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\CasoEstudio2API.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\CasoEstudio2API.pdb
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csc.exe
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csc.exe.config
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csc.rsp
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csi.exe
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csi.exe.config
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csi.rsp
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.AppContext.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Console.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.Compression.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Net.Http.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.ValueTuple.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\vbc.exe
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\vbc.exe.config
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\vbc.rsp
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\VBCSCompiler.exe
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\Antlr3.Runtime.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.SqlServer.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\Newtonsoft.Json.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Net.Http.Formatting.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Helpers.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.WebHost.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Mvc.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Optimization.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Razor.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Razor.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\WebGrease.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.SqlServer.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\Newtonsoft.Json.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Net.Http.Formatting.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Helpers.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.WebHost.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Mvc.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Optimization.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Razor.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Razor.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\Antlr3.Runtime.pdb
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.csproj.AssemblyReference.cache
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.csproj.CoreCompileInputs.cache
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.csproj.CopyComplete
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.dll
+C:\Users\jimen\OneDrive\Desktop\Examen\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.pdb
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\CasoEstudio2API.dll.config
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\CasoEstudio2API.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\CasoEstudio2API.pdb
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csc.exe
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csc.exe.config
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csc.rsp
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csi.exe
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csi.exe.config
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csi.rsp
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.AppContext.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Console.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.Compression.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Net.Http.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.ValueTuple.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\vbc.exe
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\vbc.exe.config
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\vbc.rsp
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\VBCSCompiler.exe
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Antlr3.Runtime.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.SqlServer.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Newtonsoft.Json.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Net.Http.Formatting.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Helpers.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.WebHost.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Mvc.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Optimization.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Razor.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Razor.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\WebGrease.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.SqlServer.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Newtonsoft.Json.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Net.Http.Formatting.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Helpers.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.WebHost.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Mvc.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Optimization.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Razor.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Razor.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Antlr3.Runtime.pdb
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.csproj.AssemblyReference.cache
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.csproj.CoreCompileInputs.cache
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.csproj.CopyComplete
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.dll
+C:\Users\jimen\OneDrive\Desktop\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.pdb
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\CasoEstudio2API.dll.config
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\CasoEstudio2API.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\CasoEstudio2API.pdb
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csc.exe
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csc.exe.config
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csc.rsp
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csi.exe
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csi.exe.config
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\csi.rsp
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.AppContext.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Collections.Immutable.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Console.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Globalization.Calendars.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.Compression.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.FileSystem.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Net.Http.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Net.Sockets.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Reflection.Metadata.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.ValueTuple.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.XPath.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\vbc.exe
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\vbc.exe.config
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\vbc.rsp
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\VBCSCompiler.exe
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\roslyn\VBCSCompiler.exe.config
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Antlr3.Runtime.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.SqlServer.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Microsoft.Web.Infrastructure.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Newtonsoft.Json.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Net.Http.Formatting.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Helpers.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.WebHost.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Mvc.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Optimization.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Razor.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Deployment.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Razor.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\WebGrease.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\EntityFramework.SqlServer.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Newtonsoft.Json.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Net.Http.Formatting.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Helpers.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Http.WebHost.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Mvc.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Optimization.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.Razor.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Deployment.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\System.Web.WebPages.Razor.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Antlr3.Runtime.pdb
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.csproj.AssemblyReference.cache
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.csproj.CoreCompileInputs.cache
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.csproj.CopyComplete
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.dll
+C:\DATA\Universidad\Cuatrimestres\Sexto Cuatrimestre\Progra Avanzada\PROGRA\CasoEstudio2API\CasoEstudio2API\obj\Debug\CasoEstudio2API.pdb

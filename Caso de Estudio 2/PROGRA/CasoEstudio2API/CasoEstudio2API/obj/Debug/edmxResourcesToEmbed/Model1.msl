@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CasoEstudioMNModelStoreContainer" CdmEntityContainer="CasoEstudioMNEntities">
+    <EntitySetMapping Name="CasasSistema">
+      <EntityTypeMapping TypeName="CasoEstudioMNModel.CasasSistema">
+        <MappingFragment StoreEntitySet="CasasSistema">
+          <ScalarProperty Name="IdCasa" ColumnName="IdCasa" />
+          <ScalarProperty Name="DescripcionCasa" ColumnName="DescripcionCasa" />
+          <ScalarProperty Name="PrecioCasa" ColumnName="PrecioCasa" />
+          <ScalarProperty Name="UsuarioAlquiler" ColumnName="UsuarioAlquiler" />
+          <ScalarProperty Name="FechaAlquiler" ColumnName="FechaAlquiler" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
